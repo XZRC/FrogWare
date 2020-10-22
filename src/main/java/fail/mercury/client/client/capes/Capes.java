@@ -19,7 +19,7 @@ import org.apache.logging.log4j.Logger;
  */
 public class Capes {
 
-    public static final Logger log = LogManager.getLogger("Mercury");
+    public static final Logger log = LogManager.getLogger("FrogWare");
     private static Capes INSTANCE;
     private CapeUser[] capeUser;
 
