@@ -5,13 +5,13 @@
 
 
 ## Project Managers:
-\> XZRC
+- XZRC
 
-\> yagel15637
+- yagel15637
 
-\> 3s0
+- 3s0
 
-\> scswskid
+- scswskid
 
 
 ## Honorable Mentions:
