@@ -1,7 +1,6 @@
 # FrogWare
 
-## Elementars.com continuation
-
+## A anarchy server client based on Elementars.com 
 
 
 ## Project Managers:
