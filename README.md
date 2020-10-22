@@ -1,3 +1,4 @@
-# Mercury
-bcuz auto threatened to leek src. so ill make public lole 
-- by crystallinqq & auto 
+# Elementars+
+A continuation of Elementars.
+By XZRC, Reap, Es0 and 9k
+Original Elementars by crystallinqq & auto 
