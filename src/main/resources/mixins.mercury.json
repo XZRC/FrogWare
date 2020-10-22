@@ -1,0 +1,25 @@
+{
+  "package": "fail.mercury.client.api.mixin",
+  "refmap": "mixin.refmap.json",
+  "required": true,
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "verbose": false,
+  "mixins": [
+    "MixinMinecraft",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinAbstractClientPlayer",
+    "MixinBlock",
+    "MixinWorld",
+    "MixinMovementInputFromOptions",
+    "MixinEntityLivingBase",
+    "MixinEntityPlayer",
+    "MixinEntity",
+    "MixinNettyCompressionDecoder",
+    "MixinEntityRenderer",
+    "MixinPlayerControllerMP",
+    "MixinRenderGlobal",
+    "MixinRenderLivingBase"
+  ]
+}
