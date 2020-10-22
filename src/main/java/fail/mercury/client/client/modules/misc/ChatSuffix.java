@@ -14,7 +14,7 @@ import net.minecraft.network.play.client.CPacketChatMessage;
 public class ChatSuffix extends Module {
 
     @Property("Suffix")
-    private String suffix = "| Mercury";
+    private String suffix = "| Elementars+";
 
     @EventHandler
     public void onPacket(PacketEvent event) {
