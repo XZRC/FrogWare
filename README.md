@@ -1,4 +1,11 @@
-# Elementars+
-A continuation of Elementars.
-By XZRC, Reap, Es0 and 9k
-Original Elementars by crystallinqq & auto 
+#Elementars+
+
+## Elementars.com continuation
+
+### Project Managers:
+\> XZRC
+\> yagel15637
+\> 3s0
+\> scswskid
+
+#### Honorable Mentions:
