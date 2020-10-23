@@ -14,4 +14,4 @@
 
 
 ## Honorable Mentions:
-- crystallinqq & auto
+- Elementars.com for the base and the modules we started with
