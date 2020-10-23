@@ -14,4 +14,4 @@
 
 
 ## Honorable Mentions:
-- Elementars.com for the base and the modules we started with
+- Mercury for the base and the modules we started with
