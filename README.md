@@ -1,6 +1,6 @@
 # FrogWare
 
-## A anarchy server client based on Elementars.com 
+## A anarchy server client based on Mercury
 
 
 ## Project Managers:
@@ -14,4 +14,4 @@
 
 
 ## Honorable Mentions:
-- Elementars.com for the base and the modules we started with
+- mercury for the base and the modules we started with
